@@ -1,0 +1,1087 @@
+{
+ "source_files": [
+  {
+   "file": "palace/p2015.csv",
+   "publicDataPk": "15040885",
+   "edition_id": "uddi:2fb2c835-2e5e-4dbc-a45c-9258b9f41a73",
+   "title": "문화재청 궁능유적본부_4대궁 관람객 수 현황_20151231",
+   "registered": "2020-09-15",
+   "updated": "2020-09-15",
+   "sha256": "e620b38dc6dd6cce0c3623c4c06d694c71842a3c9ab12a9f5c719cc5ba43ab68"
+  },
+  {
+   "file": "palace/p2016.csv",
+   "publicDataPk": "15040885",
+   "edition_id": "uddi:f8772645-4e01-4133-8136-e610e2be4cbb",
+   "title": "문화재청 궁능유적본부_4대궁 관람객 수 현황_20161231",
+   "registered": "2020-09-16",
+   "updated": "2020-09-16",
+   "sha256": "f41a0f0c13379e4ecf6a47db5a4ad9dfddeeae913756b1948c1723e7f5b1d67f"
+  },
+  {
+   "file": "palace/p2017.csv",
+   "publicDataPk": "15040885",
+   "edition_id": "uddi:eb08fea8-1b08-4dbf-9ff7-aff9b4caec82",
+   "title": "문화재청 궁능유적본부_4대궁 관람객 수 현황_20171231",
+   "registered": "2020-09-16",
+   "updated": "2020-09-16",
+   "sha256": "97275d62ceb33818250b1b1495f8c605cfcb4b028530ad25c42c82da0620b24f"
+  },
+  {
+   "file": "palace/p2018.csv",
+   "publicDataPk": "15040885",
+   "edition_id": "uddi:6850330e-d5a8-4f61-82fe-ecb8d71dc8e4",
+   "title": "문화재청 궁능유적본부_4대궁 관람객 수 현황_20181231",
+   "registered": "2020-09-17",
+   "updated": "2020-09-17",
+   "sha256": "5432c0d0db3a20bcefe36f51c39d75334580d5ab7159d1dc86a5cb7157869eaa"
+  },
+  {
+   "file": "palace/p2019.csv",
+   "publicDataPk": "15040885",
+   "edition_id": "uddi:0bd115fa-089c-4976-9ccf-8fb75bdd887f",
+   "title": "문화재청 궁능유적본부_4대궁 관람객 수 현황_20191231",
+   "registered": "2020-09-18",
+   "updated": "2020-09-18",
+   "sha256": "97fd1e3069e9a68d38a793fa94b5b9faeeaf2508d62ea072652c8cd0ee85934f"
+  },
+  {
+   "file": "palace/p2020.csv",
+   "publicDataPk": "15040885",
+   "edition_id": "uddi:6ddd0c01-867b-43ce-89cd-cd19e795633b",
+   "title": "문화재청 궁능유적본부_4대궁 관람객 수 현황_20201231",
+   "registered": "2020-09-18",
+   "updated": "2021-05-28",
+   "sha256": "9a55ed93cf7f775802aab9b2aa7d00bf4c4dcbe385c503efde37c69053ce5391"
+  },
+  {
+   "file": "palace/p2021.csv",
+   "publicDataPk": "15040885",
+   "edition_id": "uddi:ce839cf0-8677-46eb-9207-a83cda77fbff",
+   "title": "문화재청 궁능유적본부_4대궁 관람객 수 현황_20211231",
+   "registered": "2022-03-29",
+   "updated": "2022-03-29",
+   "sha256": "e521eb95210d89405062292b228ebbe8f446b1a1d0959a05319278151204e304"
+  },
+  {
+   "file": "palace/p2022.csv",
+   "publicDataPk": "15040885",
+   "edition_id": "uddi:964ea11f-836b-4a5d-bfd0-b5c0a22d8b08",
+   "title": "문화재청 궁능유적본부_4대궁 관람객 수 현황_20221231",
+   "registered": "2023-03-21",
+   "updated": "2023-03-27",
+   "sha256": "84cbf81b5c128fa964d56310c10b9a412d6da4eed398c078401472de70c56d66"
+  },
+  {
+   "file": "palace/p2023.csv",
+   "publicDataPk": "15040885",
+   "edition_id": "uddi:698455d8-abad-49cc-bf93-9ab7fefb39cf",
+   "title": "국가유산청 궁능유적본부_4대궁 관람객 수 현황_20231231",
+   "registered": "2024-03-11",
+   "updated": "2024-05-28",
+   "sha256": "ae03f565da2a8e393745c34652c3af2dc49b9237d139850b4e36c47beed60a16"
+  },
+  {
+   "file": "palace/p2024.csv",
+   "publicDataPk": "15040885",
+   "edition_id": "uddi:edff1d8c-67d3-4b17-bd21-f399a8a5a875",
+   "title": "국가유산청 궁능유적본부_4대궁 관람객 수 현황_20241231",
+   "registered": "2025-03-05",
+   "updated": "2025-07-25",
+   "sha256": "b54a3f6d25dfa87938a77b7b7760b941e0430b3a6a700a48ef0c8ebae9f3e616"
+  },
+  {
+   "file": "palace/p2025.csv",
+   "publicDataPk": "15040885",
+   "edition_id": "uddi:308953b2-8c8a-4a39-9eed-f60b677315b7",
+   "title": "국가유산청 궁능유적본부_4대궁 관람객 수 현황_20251231",
+   "registered": "2026-03-12",
+   "updated": "2026-03-12",
+   "sha256": "97134071783a6901060e3f0428c43d9e3257c01c405d4d122d1d50fe9fcdaa70"
+  },
+  {
+   "file": "tomb/t2019.csv",
+   "publicDataPk": "15064582",
+   "edition_id": "uddi:79e78a50-cafc-421e-b7d5-c174e2bdbf8a",
+   "title": "문화재청 궁능유적본부_조선왕릉 관람객 수 현황_20191231",
+   "registered": "2020-09-14",
+   "updated": "2020-09-14",
+   "sha256": "052c4fda0a198fe4cb94c2d3b03c5fb1b05065cdf0548cb0206abba3b9b3e7cd"
+  },
+  {
+   "file": "tomb/t2020.csv",
+   "publicDataPk": "15064582",
+   "edition_id": "uddi:adb8efc7-0e62-41eb-b269-e7d4a0fa0b29",
+   "title": "문화재청 궁능유적본부_조선왕릉 관람객 수 현황_20201231",
+   "registered": "2020-09-17",
+   "updated": "2021-05-28",
+   "sha256": "566af29451c36fef325b2d9e88c2848968102a3ad6f0e8d957677f2a754f4865"
+  },
+  {
+   "file": "tomb/t2021.csv",
+   "publicDataPk": "15064582",
+   "edition_id": "uddi:51b42c24-1851-4053-be57-89c6653eb192",
+   "title": "문화재청 궁능유적본부_조선왕릉 관람객 수 현황_20211231",
+   "registered": "2022-05-10",
+   "updated": "2022-09-20",
+   "sha256": "6cd3836c21a44b2657450dd1ab6373b9ff58ff481c80c3e7c23b60e2f945161d"
+  },
+  {
+   "file": "tomb/t2022.csv",
+   "publicDataPk": "15064582",
+   "edition_id": "uddi:574e4aed-761c-4490-a72a-f4f7e80bb113",
+   "title": "문화재청 궁능유적본부_조선왕릉 관람객 수 현황_20221231",
+   "registered": "2023-03-30",
+   "updated": "2023-10-19",
+   "sha256": "57e554aa5b567c23aa759d4aa8a9508c4f22ffbcd85028646668c36a566683ff"
+  },
+  {
+   "file": "tomb/t2023.csv",
+   "publicDataPk": "15064582",
+   "edition_id": "uddi:1620506c-2ad9-4d89-b590-8b87f8e2cf8d",
+   "title": "국가유산청 궁능유적본부_조선왕릉 관람객 수 현황_20231231",
+   "registered": "2024-03-12",
+   "updated": "2024-05-28",
+   "sha256": "a11fb8b5370c4857e1b5e95f5562b61ff6ac60fb5c3c55a310c5e56c17b06f24"
+  },
+  {
+   "file": "tomb/t2024.csv",
+   "publicDataPk": "15064582",
+   "edition_id": "uddi:0224a638-413e-4226-8b93-d1e8084b7494",
+   "title": "국가유산청 궁능유적본부_조선왕릉 관람객 수 현황_20241231",
+   "registered": "2025-03-05",
+   "updated": "2025-09-16",
+   "sha256": "47451b478e2aecdead7caa267e2d218f2807a8c7fede6aaa2caceab3fad31b04"
+  },
+  {
+   "file": "tomb/t2025.csv",
+   "publicDataPk": "15064582",
+   "edition_id": "uddi:d423f0e3-3f6d-40ad-9906-e280a3581f7b",
+   "title": "국가유산청 궁능유적본부_조선왕릉 관람객 수 현황_20251231",
+   "registered": "2026-03-12",
+   "updated": "2026-03-12",
+   "sha256": "e2283bf2e9925ba9957dca87b8e9556c988608719fb27d116441d64adb4e17ae"
+  }
+ ],
+ "other_2021_tomb_edition": {
+  "used": "uddi:51b42c24-1851-4053-be57-89c6653eb192",
+  "other": "uddi:4ee8b55f-94f9-4006-8352-84f1d96be893",
+  "values_identical": true,
+  "naive_coerce_false_zero_site_days": 326,
+  "used_cells_with_outer_space": 45990,
+  "other_cells_with_thousands_sep": 1181,
+  "sum_all_cells_used": 5297012,
+  "sum_all_cells_other": 5297012
+ },
+ "rows": 62028,
+ "n_sites": 23,
+ "sites_by_group": {
+  "궁": 4,
+  "왕릉": 18,
+  "종묘": 1
+ },
+ "period_by_site": {
+  "경복궁": {
+   "group": "궁",
+   "first_date": "2015-01-01",
+   "last_date": "2025-12-31",
+   "rows": 3965,
+   "days_in_period": 4018,
+   "missing_days": 53,
+   "total": 49778003,
+   "zero_total_days": 353
+  },
+  "창덕궁": {
+   "group": "궁",
+   "first_date": "2015-01-01",
+   "last_date": "2025-12-31",
+   "rows": 3965,
+   "days_in_period": 4018,
+   "missing_days": 53,
+   "total": 16626402,
+   "zero_total_days": 539
+  },
+  "창경궁": {
+   "group": "궁",
+   "first_date": "2015-01-01",
+   "last_date": "2025-12-31",
+   "rows": 3965,
+   "days_in_period": 4018,
+   "missing_days": 53,
+   "total": 9778881,
+   "zero_total_days": 545
+  },
+  "덕수궁": {
+   "group": "궁",
+   "first_date": "2015-01-01",
+   "last_date": "2025-12-31",
+   "rows": 3965,
+   "days_in_period": 4018,
+   "missing_days": 53,
+   "total": 24032118,
+   "zero_total_days": 514
+  },
+  "종묘": {
+   "group": "종묘",
+   "first_date": "2023-01-01",
+   "last_date": "2025-12-31",
+   "rows": 1096,
+   "days_in_period": 1096,
+   "missing_days": 0,
+   "total": 1500227,
+   "zero_total_days": 159
+  },
+  "동구릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 1299592,
+   "zero_total_days": 355
+  },
+  "광릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 634250,
+   "zero_total_days": 362
+  },
+  "홍유릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 575087,
+   "zero_total_days": 355
+  },
+  "사릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 115386,
+   "zero_total_days": 358
+  },
+  "태릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 600006,
+   "zero_total_days": 355
+  },
+  "정릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 1393706,
+   "zero_total_days": 359
+  },
+  "헌릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 311562,
+   "zero_total_days": 359
+  },
+  "선릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 2964770,
+   "zero_total_days": 363
+  },
+  "의릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 726118,
+   "zero_total_days": 358
+  },
+  "영휘원": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 252683,
+   "zero_total_days": 358
+  },
+  "서오릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 2489752,
+   "zero_total_days": 357
+  },
+  "서삼릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 330297,
+   "zero_total_days": 358
+  },
+  "융릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 2425892,
+   "zero_total_days": 365
+  },
+  "파주삼릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 357578,
+   "zero_total_days": 361
+  },
+  "파주장릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 160184,
+   "zero_total_days": 358
+  },
+  "김포장릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 1540266,
+   "zero_total_days": 357
+  },
+  "양주온릉": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 73790,
+   "zero_total_days": 633
+  },
+  "세종대왕유적": {
+   "group": "왕릉",
+   "first_date": "2019-01-01",
+   "last_date": "2025-12-31",
+   "rows": 2504,
+   "days_in_period": 2557,
+   "missing_days": 53,
+   "total": 2024841,
+   "zero_total_days": 351
+  }
+ },
+ "sums": {
+  "total": 119991391,
+  "paid": 51277728,
+  "free": 68713663,
+  "domestic": 95056379,
+  "foreign_en": 8655415,
+  "foreign_ja": 1779865,
+  "foreign_zh": 7581305,
+  "foreign_etc": 4943563,
+  "foreign_all": 22960148
+ },
+ "sums_by_group": {
+  "궁": {
+   "total": 100215404,
+   "foreign_en": 8381875,
+   "foreign_ja": 1719678,
+   "foreign_zh": 7563832,
+   "foreign_etc": 4863550
+  },
+  "왕릉": {
+   "total": 18275760,
+   "foreign_en": 119959,
+   "foreign_ja": 9759,
+   "foreign_zh": 9873,
+   "foreign_etc": 17451
+  },
+  "종묘": {
+   "total": 1500227,
+   "foreign_en": 153581,
+   "foreign_ja": 50428,
+   "foreign_zh": 7600,
+   "foreign_etc": 62562
+  }
+ },
+ "zero_total_site_days": {
+  "all": 8832,
+  "궁": 1951,
+  "왕릉": 6722,
+  "종묘": 159
+ },
+ "missing_dates_by_site": {
+  "경복궁": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "창덕궁": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "창경궁": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "덕수궁": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "종묘": [],
+  "동구릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "광릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "홍유릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "사릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "태릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "정릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "헌릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "선릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "의릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "영휘원": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "서오릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "서삼릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "융릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "파주삼릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "파주장릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "김포장릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "양주온릉": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ],
+  "세종대왕유적": [
+   [
+    "2020-05-30",
+    "2020-07-21"
+   ]
+  ]
+ },
+ "na_cells": {
+  "domestic": 1
+ },
+ "negative_cells": {
+  "paid": 2,
+  "foreign_ja": 1
+ },
+ "sums_by_year": {
+  "2015": {
+   "total": 8730690,
+   "foreign_all": 2337649
+  },
+  "2016": {
+   "total": 10285078,
+   "foreign_all": 3758545
+  },
+  "2017": {
+   "total": 8993802,
+   "foreign_all": 2012544
+  },
+  "2018": {
+   "total": 8596043,
+   "foreign_all": 2032990
+  },
+  "2019": {
+   "total": 12929507,
+   "foreign_all": 2509436
+  },
+  "2020": {
+   "total": 5239343,
+   "foreign_all": 267862
+  },
+  "2021": {
+   "total": 6483602,
+   "foreign_all": 62689
+  },
+  "2022": {
+   "total": 10760425,
+   "foreign_all": 520006
+  },
+  "2023": {
+   "total": 14377924,
+   "foreign_all": 2011999
+  },
+  "2024": {
+   "total": 15780129,
+   "foreign_all": 3177150
+  },
+  "2025": {
+   "total": 17814848,
+   "foreign_all": 4269278
+  }
+ },
+ "identity_mismatch_site_days": {
+  "total": 3436,
+  "by_year": {
+   "2022": 3436
+  },
+  "undecidable_site_days": 1
+ },
+ "total_min": 0,
+ "facts": {
+  "open_on_closed_weekday": {
+   "closed_weekday_site_days": 8847,
+   "opened": 918,
+   "opened_on_holiday": 641,
+   "opened_not_holiday": 277,
+   "holiday_opened_with_next_day_row": 641,
+   "holiday_opened_next_day_zero": 301
+  },
+  "gyeongbokgung_2023_2025_open_tuesday": {
+   "open_tuesdays": 14,
+   "open_tuesdays_holiday": 9,
+   "mean_open_tuesday": 22752.8,
+   "mean_open_other_days": 19991.0,
+   "mean_by_weekday": {
+    "월": 18270.4,
+    "화": 22752.8,
+    "수": 22265.1,
+    "목": 16650.8,
+    "금": 17568.6,
+    "토": 22837.6,
+    "일": 22369.6
+   }
+  },
+  "gyeongbokgung_tuesday_free_only": {
+   "days": 185,
+   "first": "2018-06-05",
+   "last": "2022-06-07",
+   "median_total": 116.0,
+   "largest": [
+    {
+     "date": "2022-05-17",
+     "total": 17016
+    },
+    {
+     "date": "2022-05-10",
+     "total": 9985
+    }
+   ]
+  },
+  "zero_runs_ge5": [
+   {
+    "site": "창덕궁",
+    "start": "2024-11-28",
+    "end": "2024-12-02",
+    "days": 5
+   },
+   {
+    "site": "창경궁",
+    "start": "2022-01-01",
+    "end": "2022-01-06",
+    "days": 6
+   },
+   {
+    "site": "창경궁",
+    "start": "2024-11-28",
+    "end": "2024-12-02",
+    "days": 5
+   },
+   {
+    "site": "종묘",
+    "start": "2024-11-26",
+    "end": "2024-12-03",
+    "days": 8
+   },
+   {
+    "site": "동구릉",
+    "start": "2024-11-28",
+    "end": "2024-12-02",
+    "days": 5
+   },
+   {
+    "site": "광릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "광릉",
+    "start": "2025-07-20",
+    "end": "2025-07-25",
+    "days": 6
+   },
+   {
+    "site": "홍유릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "사릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "태릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "정릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "헌릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "선릉",
+    "start": "2024-11-27",
+    "end": "2024-12-06",
+    "days": 10
+   },
+   {
+    "site": "의릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "영휘원",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "서오릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "서삼릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "융릉",
+    "start": "2024-11-28",
+    "end": "2024-12-11",
+    "days": 14
+   },
+   {
+    "site": "파주삼릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "김포장릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "양주온릉",
+    "start": "2019-01-01",
+    "end": "2019-11-13",
+    "days": 317
+   },
+   {
+    "site": "양주온릉",
+    "start": "2024-11-27",
+    "end": "2024-12-02",
+    "days": 6
+   },
+   {
+    "site": "세종대왕유적",
+    "start": "2024-11-28",
+    "end": "2024-12-02",
+    "days": 5
+   }
+  ],
+  "odd_cells": [
+   {
+    "date": "2018-05-16",
+    "site": "창경궁",
+    "column": "paid",
+    "value": -241,
+    "paid_plus_free": 363,
+    "domestic_plus_foreign": 363,
+    "other_cells": {
+     "free": 604,
+     "domestic": 259,
+     "foreign_en": 66,
+     "foreign_ja": 8,
+     "foreign_zh": 30,
+     "foreign_etc": 0
+    }
+   },
+   {
+    "date": "2019-08-06",
+    "site": "경복궁",
+    "column": "paid",
+    "value": -1,
+    "paid_plus_free": 11,
+    "domestic_plus_foreign": 11,
+    "other_cells": {
+     "free": 12,
+     "domestic": 11,
+     "foreign_en": 0,
+     "foreign_ja": 0,
+     "foreign_zh": 0,
+     "foreign_etc": 0
+    }
+   },
+   {
+    "date": "2021-08-15",
+    "site": "경복궁",
+    "column": "domestic",
+    "value": null,
+    "paid_plus_free": 0,
+    "domestic_plus_foreign": null,
+    "other_cells": {
+     "paid": 0,
+     "free": 0,
+     "foreign_en": 0,
+     "foreign_ja": 0,
+     "foreign_zh": 0,
+     "foreign_etc": 0
+    }
+   },
+   {
+    "date": "2021-09-06",
+    "site": "경복궁",
+    "column": "foreign_ja",
+    "value": -1,
+    "paid_plus_free": 1225,
+    "domestic_plus_foreign": 1225,
+    "other_cells": {
+     "paid": 712,
+     "free": 513,
+     "domestic": 1094,
+     "foreign_en": 115,
+     "foreign_zh": 3,
+     "foreign_etc": 14
+    }
+   }
+  ],
+  "language_on_paid0_days_2023_2025": {
+   "경복궁": {
+    "etc_share_paid0": 0.2967,
+    "etc_share_paid": 0.1666,
+    "paid0_days": 61
+   },
+   "창경궁": {
+    "etc_share_paid0": 0.3716,
+    "etc_share_paid": 0.0954,
+    "paid0_days": 88
+   },
+   "종묘": {
+    "etc_share_paid0": 0.8873,
+    "etc_share_paid": 0.0605,
+    "paid0_days": 83
+   }
+  },
+  "paid0_open_days_2023_2025": {
+   "경복궁": 61,
+   "창덕궁": 1,
+   "종묘": 83,
+   "양주온릉": 934
+  },
+  "paid_sum_yangju_olleung": 0,
+  "palace4_by_year": {
+   "2015": {
+    "total": 8730690,
+    "foreign_all": 2337649
+   },
+   "2016": {
+    "total": 10285078,
+    "foreign_all": 3758545
+   },
+   "2017": {
+    "total": 8993802,
+    "foreign_all": 2012544
+   },
+   "2018": {
+    "total": 8596043,
+    "foreign_all": 2032990
+   },
+   "2019": {
+    "total": 10419724,
+    "foreign_all": 2481070
+   },
+   "2020": {
+    "total": 2910719,
+    "foreign_all": 262742
+   },
+   "2021": {
+    "total": 3835096,
+    "foreign_all": 59125
+   },
+   "2022": {
+    "total": 8050034,
+    "foreign_all": 501296
+   },
+   "2023": {
+    "total": 11402889,
+    "foreign_all": 1919188
+   },
+   "2024": {
+    "total": 12721348,
+    "foreign_all": 3065856
+   },
+   "2025": {
+    "total": 14269981,
+    "foreign_all": 4097930
+   }
+  }
+ },
+ "dtypes": {
+  "date": "datetime64[ns]",
+  "group": "object",
+  "site": "object",
+  "paid": "int64",
+  "free": "int64",
+  "domestic": "Int64",
+  "foreign_en": "int64",
+  "foreign_ja": "int64",
+  "foreign_zh": "int64",
+  "foreign_etc": "int64",
+  "total": "int64"
+ },
+ "key_duplicates": 0,
+ "weather": {
+  "rows": 92414,
+  "sites": 23,
+  "first_date": "2015-01-01",
+  "last_date": "2025-12-31",
+  "fill_value": -999.0,
+  "na_replaced": {
+   "t2m": 0,
+   "t2m_max": 0,
+   "t2m_min": 0,
+   "precip_mm": 0
+  },
+  "na_after": {
+   "t2m": 0,
+   "t2m_max": 0,
+   "t2m_min": 0,
+   "precip_mm": 0
+  },
+  "api_version": "v2.10.0",
+  "time_standard": "LST",
+  "distinct_series": 4,
+  "identical_series_groups": [
+   [
+    "경복궁",
+    "창덕궁",
+    "창경궁",
+    "덕수궁",
+    "종묘",
+    "동구릉",
+    "광릉",
+    "태릉",
+    "정릉",
+    "헌릉",
+    "선릉",
+    "의릉",
+    "영휘원",
+    "서오릉",
+    "서삼릉",
+    "파주삼릉",
+    "김포장릉",
+    "양주온릉"
+   ],
+   [
+    "홍유릉",
+    "사릉",
+    "세종대왕유적"
+   ],
+   [
+    "융릉"
+   ],
+   [
+    "파주장릉"
+   ]
+  ],
+  "messages": {},
+  "mean_t2m": 11.9126,
+  "sum_precip_mm": 319484.18
+ },
+ "calendar": {
+  "rows": 4018,
+  "holidays": 198,
+  "last_wednesdays": 132,
+  "seollal_offset_nonblank": 341,
+  "chuseok_offset_nonblank": 341,
+  "holidays_version": "0.103",
+  "language": "ko",
+  "seollal_days": [
+   "2014-01-31",
+   "2015-02-19",
+   "2016-02-08",
+   "2017-01-28",
+   "2018-02-16",
+   "2019-02-05",
+   "2020-01-25",
+   "2021-02-12",
+   "2022-02-01",
+   "2023-01-22",
+   "2024-02-10",
+   "2025-01-29",
+   "2026-02-17"
+  ],
+  "chuseok_days": [
+   "2014-09-08",
+   "2015-09-27",
+   "2016-09-15",
+   "2017-10-04",
+   "2018-09-24",
+   "2019-09-13",
+   "2020-10-01",
+   "2021-09-21",
+   "2022-09-10",
+   "2023-09-29",
+   "2024-09-17",
+   "2025-10-06",
+   "2026-09-25"
+  ]
+ },
+ "built_with": {
+  "python": "3.13.9",
+  "pandas": "2.3.3",
+  "pyarrow": "25.0.1",
+  "numpy": "2.4.2",
+  "holidays": "0.103"
+ },
+ "readback_check": "pass"
+}
